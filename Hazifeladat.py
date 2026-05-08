@@ -1,1 +1,1 @@
-print("az elso munkam")
+print("Az elso repository-m")
