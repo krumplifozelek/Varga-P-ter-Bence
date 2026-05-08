@@ -1,1 +1,1 @@
-print("Az elso repository-m")
+print("A masodik repository-m")
